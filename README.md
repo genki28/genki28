@@ -10,4 +10,4 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?genki28)](https://github.com/genki28/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genki28)](https://github.com/genki28/github-readme-stats)
